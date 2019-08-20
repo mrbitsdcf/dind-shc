@@ -1,5 +1,5 @@
-DIND SHC
-========
+Docker In Docker with SHC
+=========================
 
 ![Inception's Spinning Top](spintop.jpg)
 
